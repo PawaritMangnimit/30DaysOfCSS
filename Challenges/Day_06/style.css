@@ -3,13 +3,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: palevioletred;
+    background-color: yellow;
 }
 
 .heart {
     /* position: relative; */
-    width: 90px;
-    height: 90px;
+    width: 150px;
+    height: 150px;
     background-color: white;
     transform: rotate(45deg);
     animation: beat 1.4s linear infinite;
